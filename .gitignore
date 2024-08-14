@@ -1,0 +1,6 @@
+# Ignore all .log files
+self_managed_terraform/terraform.tfvars
+
+# Ignore the build directory
+
+
